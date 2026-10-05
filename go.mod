@@ -1,4 +1,4 @@
-module github.com/huangjie666777-ux/ac-contingency-screening-192
+module github.com/huangjie666777-ux/grid-state-estimation-194
 
 go 1.27.1
 

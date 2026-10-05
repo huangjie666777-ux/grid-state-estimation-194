@@ -3,7 +3,7 @@ package main
 import (
 	"math"
 
-	"github.com/huangjie666777-ux/ac-contingency-screening-192/internal/cx"
+	"github.com/huangjie666777-ux/grid-state-estimation-194/internal/cx"
 )
 
 // Scenario statuses.
